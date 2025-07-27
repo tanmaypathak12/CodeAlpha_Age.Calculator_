@@ -45,7 +45,7 @@ glass-age-calculator/ │ ├── index.html ├── style.css ├── scr
 
 Made with ❤️ by **Tanmay Pathak**
 
-- GitHub: [@tanmay-pathak](https://github.com/tanmay-pathak)
+- GitHub: [@tanmaypathak12](https://github.com/tanmaypathak12)
 - LinkedIn: [linkedin.com/in/tanmay-pathak-752b15331](https://linkedin.com/in/tanmay-pathak-752b15331)
 
 ---
